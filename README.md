@@ -1,67 +1,31 @@
-<br/>
-<p align="center">
-  <a href="https://github.com/usamaweb/Responsive-Animated-Education-Website-with-HTML-CSS-JS">
-    <img src="./img/ALPHA97.png" alt="Logo" width="700" height="200">
-  </a>
+# **eTutor Education Website**  
 
-  <h1 align="center">Alpha97 - Responsive Animated Education Website</h1>
+## **Overview**  
+eTutor is a modern and responsive education website built using **HTML, CSS, and JavaScript**. Designed to provide a seamless learning experience, the platform is fully optimized for **mobile devices**, ensuring smooth navigation and accessibility for students and educators alike.  
 
-  <p align="center">
-    Alpha97 is fully Responsive Animated Education Website,
-Responsive for all devices, built using HTML, CSS, and JavaScript.
-    <br/>
-    <br/>
-    <a href="https://github.com/usamaweb/alpha97-car-rent-website">View Demo</a>
-    .
-    <a href="https://github.com/usamaweb/alpha97-car-rent-website/issues">Report Bug</a>
-    .
-    <a href="https://github.com/usamaweb/alpha97-car-rent-website/issues">Request Feature</a>
-  </p>
-</p>
+## **Features**  
+- 📚 **Responsive Design** – Ensures a seamless experience on mobile, tablet, and desktop devices.  
+- 🎨 **Modern UI** – Clean and engaging interface for better user interaction.  
+- 🔍 **Interactive Elements** – Smooth animations and JavaScript-powered dynamic content.  
+- 📱 **Mobile-First Approach** – Designed and optimized for mobile users.  
 
-![Downloads](https://img.shields.io/github/downloads/usamaweb/alpha97-car-rent-website/total) ![Contributors](https://img.shields.io/github/contributors/usamaweb/alpha97-car-rent-website?color=dark-green) ![Forks](https://img.shields.io/github/forks/usamaweb/alpha97-car-rent-website?style=social) ![Stargazers](https://img.shields.io/github/stars/usamaweb/alpha97-car-rent-website?style=social) ![Issues](https://img.shields.io/github/issues/usamaweb/alpha97-car-rent-website) ![License](https://img.shields.io/github/license/usamaweb/alpha97-car-rent-website) 
+## **Technologies Used**  
+- **HTML5** – Structuring web pages with semantic elements.  
+- **CSS3** – Styling with Flexbox, Grid, and animations.  
+- **JavaScript** – Enhancing interactivity and user experience.  
 
-## About The Project
+## **Getting Started**  
+1. Clone the repository:  
+   ```bash
+   git clone https://github.com/Tahasaif3/E-Tutor-Education-Website.git
+   ```  
+2. Open the `index.html` file in a browser to explore the website.  
 
-![Screen Shot](./img/mockup1.png)
+## **Live Demo**  
+[Visit the live website](#) *(Replace with your live site link)*  
 
-Alpha97 is fully responsive car rental website,
-Responsive for all devices, built using HTML, CSS, and JavaScript.
+## **Contributions**  
+Contributions are welcome! Feel free to fork this repository, submit issues, or create pull requests.  
 
-## Built With
-
-HTML, CSS and JavaScript
-
-### Prerequisites
-
-Before you begin, ensure you have met the following requirements:
-
-* [Git](https://git-scm.com/downloads "Download Git") must be installed on your operating system.
-
-### Run Locally
-
-To run **Alpha97** locally, run this command on your git bash:
-
-Linux and macOS:
-
-```bash
-sudo git clone https://github.com/usamaweb/Responsive-Animated-Education-Website-with-HTML-CSS-JS.git
-```
-
-Windows:
-
-```bash
-git clone https://github.com/usamaweb/Responsive-Animated-Education-Website-with-HTML-CSS-JS.git
-```
-
-### Contact
-
-If you want to contact with me you can reach me at [LinkeDin](https://www.linkedin.com/in/usamaweb/).
-
-### License
-
-This project is **free to use** and does not contains any license.
-
-## Acknowledgements
-
-* [UsamaWeb](https://github.com/usamaweb/)
+## **License**  
+This project is open-source and available under the **MIT License**.  
