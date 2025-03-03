@@ -22,7 +22,7 @@ eTutor is a modern and responsive education website built using **HTML, CSS, and
 2. Open the `index.html` file in a browser to explore the website.  
 
 ## **Live Demo**  
-[Visit the live website](#) *(Replace with your live site link)*  
+[Visit the live website](https://e-tutor-education-website.vercel.app/)
 
 ## **Contributions**  
 Contributions are welcome! Feel free to fork this repository, submit issues, or create pull requests.  
